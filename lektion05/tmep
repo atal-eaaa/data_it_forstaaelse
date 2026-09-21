@@ -1,0 +1,11 @@
+x = 4
+y = 3
+if x-1 == y and y * y != 8:
+    z = 10
+elif x > y and x + y == 7:
+    z = 5
+else:
+    z = 0
+print(z + 3)
+
+
