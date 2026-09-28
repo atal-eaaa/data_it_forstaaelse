@@ -153,4 +153,4 @@ Hvis du glemmer at pushe på den ene computer, har du ikke din nyeste kode på d
 | `fatal: 'upstream' does not appear to be a git repository` | `upstream` er ikke sat op på denne computer | Kør `git remote add upstream https://github.com/atal-eaaa/data_it_forstaaelse.git` |
 | Der åbner en mærkelig teksteditor i terminalen | Git vil have en besked til en sammenfletning | Skriv `:wq` og tryk Enter |
 
-**Tip:** Ret ikke i filerne i roden af repoet (`README.md`, `Pipfile`, `Pipfile.lock`, `git_guide.md`). Hvis underviserne opdaterer dem, giver det konflikter.
+**Tip:** Ret ikke i filerne i roden af repoet (`README.md`, `Pipfile`, `Pipfile.lock`) eller i mappen `vejledninger_read_only`. Hvis underviserne opdaterer dem, giver det konflikter.
