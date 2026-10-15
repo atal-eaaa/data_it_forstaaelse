@@ -1,0 +1,1 @@
+tekst = "DkeAmvTbcAsd_ltEbrRgb_cnDncEhcTsn_btNdhYvvEtb_ttGmbUhbLseDjn"
