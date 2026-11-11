@@ -1,0 +1,701 @@
+﻿Model,ID,Mærke,Producent,Producent_nationalitet,Drivmiddel,CO2_Type,Segment
+toyota bz4x,1000,Toyota,Toyota Motor Corporation,Japan,El,Nul-emission,Personbil
+skoda elroq,1001,Skoda,Volkswagen Group,Tyskland,El,Nul-emission,Personbil
+tesla model y,1002,Tesla,"Tesla, Inc.",USA,El,Nul-emission,Personbil
+audi q4 e-tron,1003,Audi,Volkswagen Group,Tyskland,El,Nul-emission,SUV/Crossover
+toyota urban cruiser,1004,Toyota,Toyota Motor Corporation,Japan,Benzin,Fossil,Personbil
+volkswagen id.4,1005,Volkswagen,Volkswagen Group,Tyskland,El,Nul-emission,Personbil
+skoda enyaq iv,1006,Skoda,Volkswagen Group,Tyskland,El,Nul-emission,Personbil
+cupra born,1007,Cupra,Volkswagen Group,Tyskland,El,Nul-emission,Personbil
+renault r5,1008,Renault,Renault Group,Frankrig,Benzin,Fossil,Personbil
+bmw ix1,1009,BMW,BMW Group,Tyskland,El,Nul-emission,SUV/Crossover
+volkswagen id. buzz,1010,Volkswagen,Volkswagen Group,Tyskland,El,Nul-emission,Personbil
+volkswagen id.3,1011,Volkswagen,Volkswagen Group,Tyskland,El,Nul-emission,Personbil
+citroen c3,1012,Citroen,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+bmw x1,1013,BMW,BMW Group,Tyskland,Ukendt,Fossil,SUV/Crossover
+citroen c3 aircross,1014,Citroen,Stellantis,Europæisk (Multinational),Benzin,Fossil,SUV/Crossover
+xpeng g6,1015,Xpeng,XPeng,Kina,El,Nul-emission,Personbil
+renault r4,1016,Renault,Renault Group,Frankrig,Benzin,Fossil,Personbil
+volkswagen id.7,1017,Volkswagen,Volkswagen Group,Tyskland,El,Nul-emission,Personbil
+volvo ex40,1018,Volvo,Geely (Lynk & Co),Kina,Benzin,Fossil,SUV/Crossover
+mazda 6e,1019,Mazda,Mazda Motor Corporation,Japan,Benzin,Fossil,Personbil
+toyota yaris cross,1020,Toyota,Toyota Motor Corporation,Japan,Benzin,Fossil,SUV/Crossover
+renault scenic,1021,Renault,Renault Group,Frankrig,Benzin,Fossil,Personbil
+mercedes-benz cla,1022,Mercedes-Benz,Mercedes-Benz Group,Tyskland,Gælder d,Fossil,Personbil
+ford explorer,1023,Ford,Ford Motor Company,USA,Benzin,Fossil,Personbil
+peugeot 208,1024,Peugeot,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+renault austral,1025,Renault,Renault Group,Frankrig,Benzin,Fossil,Personbil
+mercedes-benz eqa,1026,Mercedes-Benz,Mercedes-Benz Group,Tyskland,El,Nul-emission,Personbil
+mercedes-benz eqb,1027,Mercedes-Benz,Mercedes-Benz Group,Tyskland,El,Nul-emission,Personbil
+zeekr 7x,1028,Zeekr,Geely (Lynk & Co),Kina,El,Nul-emission,Personbil
+suzuki vitara,1029,Suzuki,Suzuki Motor Corporation,Japan,Benzin,Fossil,SUV/Crossover
+peugeot 2008,1030,Peugeot,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+leapmotor b10,1031,Leapmotor,Leapmotor,Kina,El,Nul-emission,Personbil
+citroen c5 aircross,1032,Citroen,Stellantis,Europæisk (Multinational),Benzin,Fossil,SUV/Crossover
+kia ev3,1033,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+suzuki swift,1034,Suzuki,Suzuki Motor Corporation,Japan,Benzin,Fossil,Personbil
+nissan qashqai,1035,Nissan,Nissan Motor Co.,Japan,Benzin,Fossil,SUV/Crossover
+peugeot 3008,1036,Peugeot,Stellantis,Europæisk (Multinational),Ukendt,Fossil,Personbil
+mg 4,1037,MG,SAIC Motor (MG),Kina,Benzin,Fossil,Personbil
+audi a6 e-tron,1038,Audi,Volkswagen Group,Tyskland,El,Nul-emission,Personbil
+peugeot 5008,1039,Peugeot,Stellantis,Europæisk (Multinational),Ukendt,Fossil,Personbil
+mg zs,1040,MG,SAIC Motor (MG),Kina,Benzin,Fossil,Personbil
+renault megane e-tech,1041,Renault,Renault Group,Frankrig,El,Nul-emission,Personbil
+toyota aygo x,1042,Toyota,Toyota Motor Corporation,Japan,Benzin,Fossil,Personbil
+hyundai kona,1043,Hyundai,Hyundai Motor Group,Sydkorea,Benzin,Fossil,SUV/Crossover
+cupra terramar,1044,Cupra,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+bmw i4,1045,BMW,BMW Group,Tyskland,El,Nul-emission,Personbil
+mg s5,1046,MG,SAIC Motor (MG),Kina,Benzin,Fossil,Personbil
+skoda kodiaq,1047,Skoda,Volkswagen Group,Tyskland,Benzin,Fossil,SUV/Crossover
+polestar 4,1048,Polestar,Geely (Lynk & Co),Kina,El,Nul-emission,Personbil
+bmw i5,1049,BMW,BMW Group,Tyskland,El,Nul-emission,Personbil
+hyundai ioniq 5,1050,Hyundai,Hyundai Motor Group,Sydkorea,El,Nul-emission,Personbil
+bmw 3'er,1051,BMW,BMW Group,Tyskland,Ukendt,Fossil,Personbil
+ford capri,1052,Ford,Ford Motor Company,USA,Benzin,Fossil,Personbil
+volkswagen id.5,1053,Volkswagen,Volkswagen Group,Tyskland,El,Nul-emission,Personbil
+ford puma,1054,Ford,Ford Motor Company,USA,Benzin,Fossil,Personbil
+nissan micra,1055,Nissan,Nissan Motor Co.,Japan,Benzin,Fossil,Personbil
+volvo ex30,1056,Volvo,Geely (Lynk & Co),Kina,Benzin,Fossil,SUV/Crossover
+toyota yaris,1057,Toyota,Toyota Motor Corporation,Japan,Hybrid,Lav-emission,Personbil
+kia ev9,1058,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+kia ev4,1059,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+ford kuga,1060,Ford,Ford Motor Company,USA,Hybrid,Lav-emission,Personbil
+hyundai inster,1061,Hyundai,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+cupra formentor,1062,Cupra,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+bmw 5'er,1063,BMW,BMW Group,Tyskland,Ukendt,Fossil,Personbil
+audi a3,1064,Audi,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+cupra tavascan,1065,Cupra,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+kia pv5,1066,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+bmw 1'er,1067,BMW,BMW Group,Tyskland,Benzin,Fossil,Personbil
+xpeng g9,1068,Xpeng,XPeng,Kina,El,Nul-emission,Personbil
+kia ev6,1069,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+nissan ariya,1070,Nissan,Nissan Motor Co.,Japan,Benzin,Fossil,Personbil
+audi q2,1071,Audi,Volkswagen Group,Tyskland,Benzin,Fossil,SUV/Crossover
+opel grandland,1072,Opel,Stellantis,Europæisk (Multinational),Benzin,Fossil,SUV/Crossover
+seat ibiza,1073,Seat,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+mercedes-benz eqe,1074,Mercedes-Benz,Mercedes-Benz Group,Tyskland,El,Nul-emission,Personbil
+lexus rz,1075,Lexus,Toyota Motor Corporation,Japan,Benzin,Fossil,Personbil
+mercedes-benz glc,1076,Mercedes-Benz,Mercedes-Benz Group,Tyskland,Ukendt,Fossil,Personbil
+opel frontera,1077,Opel,Stellantis,Europæisk (Multinational),Benzin,Fossil,SUV/Crossover
+navor e5,1078,Navor,DFSK Motor,Kina,Benzin,Fossil,Personbil
+mini aceman,1079,Mini,BMW Group,Tyskland,El,Nul-emission,Personbil
+volkswagen t-roc,1080,Volkswagen,Volkswagen Group,Tyskland,Benzin,Fossil,SUV/Crossover
+volvo ex90,1081,Volvo,Geely (Lynk & Co),Kina,Benzin,Fossil,Personbil
+ford tourneo custom,1082,Ford,Ford Motor Company,USA,Benzin,Fossil,Varebil/MPV
+mini 3-dørs,1083,Mini,BMW Group,Tyskland,Benzin,Fossil,Personbil
+mazda cx-30,1084,Mazda,Mazda Motor Corporation,Japan,Benzin,Fossil,SUV/Crossover
+renault symbioz,1085,Renault,Renault Group,Frankrig,Benzin,Fossil,Personbil
+honda e:ny1,1086,Honda,Honda Motor Co.,Japan,El,Nul-emission,Personbil
+bmw ix2,1087,BMW,BMW Group,Tyskland,El,Nul-emission,SUV/Crossover
+mercedes-benz glb,1088,Mercedes-Benz,Mercedes-Benz Group,Tyskland,Ukendt,Fossil,Personbil
+bmw ix,1089,BMW,BMW Group,Tyskland,El,Nul-emission,Personbil
+mercedes-benz gla,1090,Mercedes-Benz,Mercedes-Benz Group,Tyskland,Ukendt,Fossil,Personbil
+ford transit,1091,Ford,Ford Motor Company,USA,Benzin,Fossil,Varebil/MPV
+mercedes-benz vito tourer,1092,Mercedes-Benz,Mercedes-Benz Group,Tyskland,Ukendt,Fossil,Varebil/MPV
+volvo ec40,1093,Volvo,Geely (Lynk & Co),Kina,Benzin,Fossil,Personbil
+skoda karoq,1094,Skoda,Volkswagen Group,Tyskland,Benzin,Fossil,SUV/Crossover
+byd dolphin surf,1095,BYD,BYD Auto,Kina,Benzin,Fossil,Personbil
+byd sealion 7,1096,BYD,BYD Auto,Kina,Benzin,Fossil,Personbil
+polestar 2,1097,Polestar,Geely (Lynk & Co),Kina,El,Nul-emission,Personbil
+mercedes-benz c-klasse,1098,Mercedes-Benz,Mercedes-Benz Group,Tyskland,Ukendt,Fossil,Personbil
+audi q3,1099,Audi,Volkswagen Group,Tyskland,Ukendt,Fossil,SUV/Crossover
+cupra leon,1100,Cupra,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+mg s6 ev,1101,MG,SAIC Motor (MG),Kina,Benzin,Fossil,Personbil
+mini countryman,1102,Mini,BMW Group,Tyskland,Benzin,Fossil,Personbil
+nissan juke,1103,Nissan,Nissan Motor Co.,Japan,Benzin,Fossil,SUV/Crossover
+byd seal u,1104,BYD,BYD Auto,Kina,Benzin,Fossil,Personbil
+volvo es90,1105,Volvo,Geely (Lynk & Co),Kina,Benzin,Fossil,Personbil
+byd atto 2,1106,BYD,BYD Auto,Kina,Benzin,Fossil,Personbil
+byd seal,1107,BYD,BYD Auto,Kina,Benzin,Fossil,Personbil
+kgm torres evx,1108,KGM,KG Mobility (tidl. SsangYong),Sydkorea,El,Nul-emission,SUV/Crossover
+mg hs,1109,MG,SAIC Motor (MG),Kina,Benzin,Fossil,Personbil
+mercedes-benz eqe suv,1110,Mercedes-Benz,Mercedes-Benz Group,Tyskland,El,Nul-emission,SUV/Crossover
+renault clio,1111,Renault,Renault Group,Frankrig,Benzin,Fossil,Personbil
+skoda kamiq,1112,Skoda,Volkswagen Group,Tyskland,Benzin,Fossil,SUV/Crossover
+subaru solterra,1113,Subaru,Subaru Corporation,Japan,Benzin,Fossil,Personbil
+zeekr x,1114,Zeekr,Geely (Lynk & Co),Kina,El,Nul-emission,Personbil
+audi a5,1115,Audi,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+jaecoo j5,1116,Jaecoo,Chery Group,Kina,Benzin,Fossil,Personbil
+citroen berlingo,1117,Citroen,Stellantis,Europæisk (Multinational),Benzin,Fossil,Varebil/MPV
+hyundai ioniq 9,1118,Hyundai,Hyundai Motor Group,Sydkorea,El,Nul-emission,Personbil
+porsche macan,1119,Porsche,Volkswagen Group,Tyskland,Benzin,Fossil,SUV/Crossover
+renault master,1120,Renault,Renault Group,Frankrig,Benzin,Fossil,Varebil/MPV
+skyworth k,1121,Skyworth,Skyworth,Ukendt,El,Nul-emission,Personbil
+fiat grande panda,1122,Fiat,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+mercedes-benz a-klasse,1123,Mercedes-Benz,Mercedes-Benz Group,Tyskland,Ukendt,Fossil,Personbil
+toyota corolla cross,1124,Toyota,Toyota Motor Corporation,Japan,Benzin,Fossil,SUV/Crossover
+volkswagen passat,1125,Volkswagen,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+byd tang,1126,BYD,BYD Auto,Kina,Benzin,Fossil,Personbil
+honda cr-v,1127,Honda,Honda Motor Co.,Japan,Hybrid,Lav-emission,Personbil
+mercedes-benz e-klasse,1128,Mercedes-Benz,Mercedes-Benz Group,Tyskland,Ukendt,Fossil,Personbil
+omoda 5,1129,Omoda,Chery Group,Kina,Benzin,Fossil,Personbil
+skoda scala,1130,Skoda,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+suzuki sx4,1131,Suzuki,Suzuki Motor Corporation,Japan,Benzin,Fossil,SUV/Crossover
+exlantix et,1132,Exlantix,Chery Group,Kina,El,Nul-emission,Personbil
+hyundai ioniq 6,1133,Hyundai,Hyundai Motor Group,Sydkorea,El,Nul-emission,Personbil
+mercedes-benz sprinter,1134,Mercedes-Benz,Mercedes-Benz Group,Tyskland,Ukendt,Fossil,Varebil/MPV
+toyota proace verso,1135,Toyota,Toyota Motor Corporation,Japan,Benzin,Fossil,Varebil/MPV
+zeekr 001,1136,Zeekr,Geely (Lynk & Co),Kina,El,Nul-emission,Personbil
+audi q5,1137,Audi,Volkswagen Group,Tyskland,Ukendt,Fossil,SUV/Crossover
+hongqi ehs7,1138,Hongqi,FAW (Hongqi),Kina,El,Nul-emission,Personbil
+skoda superb,1139,Skoda,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+volkswagen polo,1140,Volkswagen,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+bmw x3,1141,BMW,BMW Group,Tyskland,Ukendt,Fossil,SUV/Crossover
+exlantix es,1142,Exlantix,Chery Group,Kina,El,Nul-emission,Personbil
+lynk & co 02,1143,Lynk & Co,Geely (Lynk & Co),Kina,Benzin,Fossil,Personbil
+mercedes-benz gle,1144,Mercedes-Benz,Mercedes-Benz Group,Tyskland,Ukendt,Fossil,Personbil
+volkswagen tiguan,1145,Volkswagen,Volkswagen Group,Tyskland,Benzin,Fossil,SUV/Crossover
+bmw i7,1146,BMW,BMW Group,Tyskland,El,Nul-emission,Personbil
+ford mustang mach-e,1147,Ford,Ford Motor Company,USA,Benzin,Fossil,Personbil
+hisun hs5dutv-2,1148,Hisun,"Chongqing Huansong Industrial (Group) Co., Ltd.",Kina,Benzin,Fossil,ATV/UTV/Andet
+honda hr-v,1149,Honda,Honda Motor Co.,Japan,Benzin,Fossil,Personbil
+honda jazz,1150,Honda,Honda Motor Co.,Japan,Benzin,Fossil,Personbil
+hyundai bayon,1151,Hyundai,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+maserati grecale,1152,Maserati,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+mazda 2,1153,Mazda,Mazda Motor Corporation,Japan,Benzin,Fossil,Personbil
+mazda 3,1154,Mazda,Mazda Motor Corporation,Japan,Benzin,Fossil,Personbil
+mercedes-benz eqv,1155,Mercedes-Benz,Mercedes-Benz Group,Tyskland,El,Nul-emission,Personbil
+mercedes-benz vito,1156,Mercedes-Benz,Mercedes-Benz Group,Tyskland,Diesel/El,Fossil,Varebil/MPV
+skoda octavia,1157,Skoda,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+today sunshine,1158,Today Sunshine,Today Sunshine,Ukendt,Benzin,Fossil,Personbil
+audi a6,1159,Audi,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+audi q6 e-tron,1160,Audi,Volkswagen Group,Tyskland,El,Nul-emission,SUV/Crossover
+byd atto 3,1161,BYD,BYD Auto,Kina,Benzin,Fossil,Personbil
+ford focus,1162,Ford,Ford Motor Company,USA,Benzin,Fossil,Personbil
+honda civic,1163,Honda,Honda Motor Co.,Japan,Hybrid,Lav-emission,Personbil
+kia ev5,1164,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+lexus lbx,1165,Lexus,Toyota Motor Corporation,Japan,Benzin,Fossil,Personbil
+maxus e-deliver 9,1166,Maxus,SAIC Motor (Maxus),Kina,Benzin,Fossil,Varebil/MPV
+maxus euniq6,1167,Maxus,SAIC Motor (Maxus),Kina,Benzin,Fossil,SUV/Crossover
+mazda cx-80,1168,Mazda,Mazda Motor Corporation,Japan,Benzin,Fossil,SUV/Crossover
+mercedes-benz eqs,1169,Mercedes-Benz,Mercedes-Benz Group,Tyskland,El,Nul-emission,Personbil
+mercedes-benz g-klasse,1170,Mercedes-Benz,Mercedes-Benz Group,Tyskland,Benzin,Fossil,Personbil
+mercedes-benz v-klasse,1171,Mercedes-Benz,Mercedes-Benz Group,Tyskland,Benzin,Fossil,Personbil
+mg 3,1172,MG,SAIC Motor (MG),Kina,Benzin,Fossil,Personbil
+mg cyberster,1173,MG,SAIC Motor (MG),Kina,Benzin,Fossil,Personbil
+microlino,1174,Microlino,Micro,Schweitz/Italien,El,Nul-emission,ATV/UTV/Andet
+porsche taycan,1175,Porsche,Volkswagen Group,Tyskland,El,Nul-emission,Personbil
+renault trafic,1176,Renault,Renault Group,Frankrig,Benzin,Fossil,Varebil/MPV
+seat arona,1177,Seat,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+subaru outback,1178,Subaru,Subaru Corporation,Japan,Benzin,Fossil,SUV/Crossover
+tesla model 3,1179,Tesla,"Tesla, Inc.",USA,El,Nul-emission,Personbil
+toyota corolla,1180,Toyota,Toyota Motor Corporation,Japan,Hybrid,Lav-emission,Personbil
+volkswagen t-cross,1181,Volkswagen,Volkswagen Group,Tyskland,Benzin,Fossil,SUV/Crossover
+volkswagen touran,1182,Volkswagen,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+bentley bentayga,1183,Bentley,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+bentley flying spur,1184,Bentley,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+bmw 4'er,1185,BMW,BMW Group,Tyskland,Benzin,Fossil,Personbil
+bmw x5,1186,BMW,BMW Group,Tyskland,Ukendt,Fossil,SUV/Crossover
+byd dolphin,1187,BYD,BYD Auto,Kina,Benzin,Fossil,Personbil
+eagle golf car,1188,Eagle,"Eagle Golf Cars, LLC",USA,EL,Nul-emission,ATV/UTV/Andet
+evolution classic 4,1189,Evolution Classic,Evolution Electric Vehicles,USA,El,Nul-emission,ATV/UTV/Andet
+ferrari purosangue,1190,Ferrari,Ferrari,Italien,Benzin,Fossil,Personbil
+ford allied,1191,Ford,Ford Motor Company,USA,Benzin,Fossil,Personbil
+ford transit custom,1192,Ford,Ford Motor Company,USA,Benzin,Fossil,Varebil/MPV
+honda zr-v,1193,Honda,Honda Motor Co.,Japan,Benzin,Fossil,Personbil
+hongqi eh7,1194,Hongqi,FAW (Hongqi),Kina,El,Nul-emission,Personbil
+jac e30x,1195,JAC,JAC Motors,Kina,Benzin,Fossil,Personbil
+land rover range rover sport,1196,Land Rover,Jaguar Land Rover (Tata Motors),Indien,Benzin,Fossil,SUV/Crossover
+man tge,1197,MAN,TRATON (Volkswagen Group),Tyskland,Benzin,Fossil,Varebil/MPV
+maxus euniq5,1198,Maxus,SAIC Motor (Maxus),Kina,Benzin,Fossil,SUV/Crossover
+mazda mx-30,1199,Mazda,Mazda Motor Corporation,Japan,Benzin,Fossil,Personbil
+mercedes-benz eqs suv,1200,Mercedes-Benz,Mercedes-Benz Group,Tyskland,El,Nul-emission,SUV/Crossover
+mercedes-benz s-klasse,1201,Mercedes-Benz,Mercedes-Benz Group,Tyskland,Ukendt,Fossil,Personbil
+nilsson hearse,1202,Nilsson Hearse,Nilsson Hearse,Sverige,Benzin,Fossil,Varebil/MPV
+nio firefly,1203,Nio,NIO,Kina,El,Nul-emission,Personbil
+nissan x-trail,1204,Nissan,Nissan Motor Co.,Japan,Hybrid,Lav-emission,Personbil
+opel zafira,1205,Opel,Stellantis,Europæisk (Multinational),Benzin,Fossil,Varebil/MPV
+peugeot 308,1206,Peugeot,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+porsche 718 boxster,1207,Porsche,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+porsche cayenne,1208,Porsche,Volkswagen Group,Tyskland,Benzin,Fossil,SUV/Crossover
+powerland tachyon,1209,Powerland,Powerland,Ukendt,Benzin,Fossil,Personbil
+seat leon,1210,Seat,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+skoda fabia,1211,Skoda,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+subaru forester,1212,Subaru,Subaru Corporation,Japan,Benzin,Fossil,SUV/Crossover
+tesla model s,1213,Tesla,"Tesla, Inc.",USA,El,Nul-emission,Personbil
+tesla model x,1214,Tesla,"Tesla, Inc.",USA,El,Nul-emission,Personbil
+toyota proace,1215,Toyota,Toyota Motor Corporation,Japan,Benzin,Fossil,Varebil/MPV
+volkswagen caddy,1216,Volkswagen,Volkswagen Group,Tyskland,Benzin,Fossil,Varebil/MPV
+volkswagen caravelle,1217,Volkswagen,Volkswagen Group,Tyskland,Benzin,Fossil,Varebil/MPV
+volkswagen crafter,1218,Volkswagen,Volkswagen Group,Tyskland,Benzin,Fossil,Varebil/MPV
+volkswagen golf,1219,Volkswagen,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+volvo v90,1220,Volvo,Geely (Lynk & Co),Kina,Benzin,Fossil,Personbil
+alfa romeo junior,1221,Alfa Romeo,Stellantis,Europæisk (Multinational),Benzin,Fossil,SUV/Crossover
+audi a8,1222,Audi,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+bmw 2'er,1223,BMW,BMW Group,Tyskland,Benzin,Fossil,Personbil
+bmw ix3,1224,BMW,BMW Group,Tyskland,El,Nul-emission,SUV/Crossover
+bmw z4,1225,BMW,BMW Group,Tyskland,Benzin,Fossil,Personbil
+can-am outlander,1226,Can-Am,Bombardier Recreational Products,Canada,Benzin,Fossil,ATV/UTV/Andet
+citroen c4,1227,Citroen,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+citroen e-spacetourer,1228,Citroen,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+dacia duster,1229,Dacia,Renault Group,Frankrig,Benzin,Fossil,Personbil
+dacia jogger,1230,Dacia,Renault Group,Frankrig,Benzin,Fossil,Personbil
+dacia sandero,1231,Dacia,Renault Group,Frankrig,Benzin,Fossil,Personbil
+fiat 500,1232,Fiat,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+fisker ocean,1233,Fisker,Fisker Inc.,USA,El,Nul-emission,Personbil
+ford tourneo connect,1234,Ford,Ford Motor Company,USA,Benzin,Fossil,Varebil/MPV
+hisun hs,1235,Hisun,"Chongqing Huansong Industrial (Group) Co., Ltd.",Kina,Benzin,Fossil,ATV/UTV/Andet
+hongqi e-hs9,1236,Hongqi,FAW (Hongqi),Kina,El,Nul-emission,Personbil
+hyundai i10,1237,Hyundai,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+hyundai i20,1238,Hyundai,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+hyundai i30,1239,Hyundai,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+hyundai santa fe,1240,Hyundai,Hyundai Motor Group,Sydkorea,Benzin,Fossil,SUV/Crossover
+hyundai tucson,1241,Hyundai,Hyundai Motor Group,Sydkorea,Ukendt,Fossil,SUV/Crossover
+jeep avenger,1242,Jeep,Stellantis,Europæisk (Multinational),Benzin,Fossil,SUV/Crossover
+kia ceed,1243,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+kia niro,1244,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+kia picanto,1245,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+kia sorento,1246,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,SUV/Crossover
+kia sportage,1247,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,SUV/Crossover
+kia stonic,1248,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+kia xceed,1249,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+land rover defender,1250,Land Rover,Jaguar Land Rover (Tata Motors),Indien,Benzin,Fossil,SUV/Crossover
+land rover discovery sport,1251,Land Rover,Jaguar Land Rover (Tata Motors),Indien,Benzin,Fossil,SUV/Crossover
+lexus nx,1252,Lexus,Toyota Motor Corporation,Japan,Hybrid,Lav-emission,Personbil
+lexus ux,1253,Lexus,Toyota Motor Corporation,Japan,Hybrid,Lav-emission,Personbil
+lotus eletre,1254,Lotus,Geely (Lynk & Co),Kina,Benzin,Fossil,Personbil
+mazda cx-60,1255,Mazda,Mazda Motor Corporation,Japan,Benzin,Fossil,SUV/Crossover
+mercedes-benz b-klasse,1256,Mercedes-Benz,Mercedes-Benz Group,Tyskland,Ukendt,Fossil,Personbil
+mercedes-benz cle,1257,Mercedes-Benz,Mercedes-Benz Group,Tyskland,Ukendt,Fossil,Personbil
+opel astra,1258,Opel,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+opel corsa,1259,Opel,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+opel crossland,1260,Opel,Stellantis,Europæisk (Multinational),Benzin,Fossil,SUV/Crossover
+opel mokka,1261,Opel,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+peugeot rifter,1262,Peugeot,Stellantis,Europæisk (Multinational),Ukendt,Fossil,Personbil
+polestar 3,1263,Polestar,Geely (Lynk & Co),Kina,El,Nul-emission,Personbil
+porsche 911,1264,Porsche,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+porsche panamera,1265,Porsche,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+renault captur,1266,Renault,Renault Group,Frankrig,Benzin,Fossil,Personbil
+skoda kodiaq iv,1267,Skoda,Volkswagen Group,Tyskland,Hybrid,Lav-emission,SUV/Crossover
+suzuki ignis,1268,Suzuki,Suzuki Motor Corporation,Japan,Benzin,Fossil,Personbil
+suzuki s-cross,1269,Suzuki,Suzuki Motor Corporation,Japan,Benzin,Fossil,SUV/Crossover
+suzuki swace,1270,Suzuki,Suzuki Motor Corporation,Japan,Benzin,Fossil,Personbil
+toyota c-hr,1271,Toyota,Toyota Motor Corporation,Japan,Hybrid,Lav-emission,Personbil
+toyota land cruiser,1272,Toyota,Toyota Motor Corporation,Japan,Benzin,Fossil,SUV/Crossover
+toyota rav4,1273,Toyota,Toyota Motor Corporation,Japan,Hybrid,Lav-emission,SUV/Crossover
+volkswagen multivan,1274,Volkswagen,Volkswagen Group,Tyskland,Benzin,Fossil,Varebil/MPV
+volvo xc60,1275,Volvo,Geely (Lynk & Co),Kina,Ukendt,Fossil,Personbil
+volvo xc90,1276,Volvo,Geely (Lynk & Co),Kina,Ukendt,Fossil,Personbil
+yunlong jj2000dbp,1277,Yunlong,MG,Kina,Benzin,Fossil,Personbil
+dacia bigster,1278,Dacia,Renault Group,Frankrig,Benzin,Fossil,Personbil
+xpeng p7,1279,Xpeng,XPeng,Kina,El,Nul-emission,Personbil
+maxus e-deliver 3,1280,Maxus,SAIC Motor (Maxus),Kina,Benzin,Fossil,Varebil/MPV
+audi q8,1281,Audi,Volkswagen Group,Tyskland,Ukendt,Fossil,SUV/Crossover
+evolution turfman 450,1282,Evolution Turfman,Evolution Electric Vehicles,USA,El,Nul-emission,ATV/UTV/Andet
+land rover range rover,1283,Land Rover,Jaguar Land Rover (Tata Motors),Indien,Benzin,Fossil,SUV/Crossover
+audi e-tron gt,1284,Audi,Volkswagen Group,Tyskland,El,Nul-emission,Personbil
+garia monaco off-x,1285,Garia,Garia,Danmark,Benzin,Fossil,Personbil
+jac t9,1286,JAC,JAC Motors,Kina,Benzin,Fossil,Personbil
+land rover range rover evoque,1287,Land Rover,Jaguar Land Rover (Tata Motors),Indien,El,Fossil,SUV/Crossover
+rolls-royce spectre,1288,Rolls-Royce,BMW Group,Tyskland,Benzin,Fossil,Personbil
+skoda superb iv,1289,Skoda,Volkswagen Group,Tyskland,Hybrid,Lav-emission,Personbil
+toyota proace city,1290,Toyota,Toyota Motor Corporation,Japan,Benzin,Fossil,Varebil/MPV
+aiways u5,1291,Aiways,Aiways,Kina,El,Nul-emission,Personbil
+audi a1,1292,Audi,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+audi q7,1293,Audi,Volkswagen Group,Tyskland,Ukendt,Fossil,SUV/Crossover
+bach ym2000dp,1294,Bach,Bach,Danmark,El,Nul-emission,Kabinescooter
+bmw 7'er,1295,BMW,BMW Group,Tyskland,Benzin,Fossil,Personbil
+bmw x4,1296,BMW,BMW Group,Tyskland,Ukendt,Fossil,SUV/Crossover
+bmw x7,1297,BMW,BMW Group,Tyskland,Ukendt,Fossil,SUV/Crossover
+cupra ateca,1298,Cupra,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+ds 4,1299,DS,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+ds 7 crossback,1300,DS,Stellantis,Europæisk (Multinational),Benzin,Fossil,SUV/Crossover
+eagle,1301,Eagle,"Eagle Golf Cars, LLC",USA,El,Nul-emission,Personbil
+fiat ducato,1302,Fiat,Stellantis,Europæisk (Multinational),Benzin,Fossil,Varebil/MPV
+jac e-js4,1303,JAC,JAC Motors,Kina,Benzin,Fossil,Personbil
+jaguar f-pace,1304,Jaguar,Jaguar Land Rover (Tata Motors),Indien,Benzin,Fossil,Personbil
+jaguar i-pace,1305,Jaguar,Jaguar Land Rover (Tata Motors),Indien,Benzin,Fossil,Personbil
+land rover discovery,1306,Land Rover,Jaguar Land Rover (Tata Motors),Indien,Benzin,Fossil,SUV/Crossover
+land rover range rover velar,1307,Land Rover,Jaguar Land Rover (Tata Motors),Indien,Benzin,Fossil,SUV/Crossover
+lexus rx,1308,Lexus,Toyota Motor Corporation,Japan,Benzin,Fossil,Personbil
+maxus e-deliver 7,1309,Maxus,SAIC Motor (Maxus),Kina,Benzin,Fossil,Varebil/MPV
+maxus mifa 9,1310,Maxus,SAIC Motor (Maxus),Kina,Benzin,Fossil,Varebil/MPV
+mazda cx-5,1311,Mazda,Mazda Motor Corporation,Japan,Benzin,Fossil,SUV/Crossover
+mercedes-benz amg gt,1312,Mercedes-Benz,Mercedes-Benz Group,Tyskland,Ukendt,Fossil,Personbil
+mercedes-benz citan,1313,Mercedes-Benz,Mercedes-Benz Group,Tyskland,Benzin,Fossil,Varebil/MPV
+mercedes-benz gls,1314,Mercedes-Benz,Mercedes-Benz Group,Tyskland,Ukendt,Fossil,Personbil
+mercedes-benz sl,1315,Mercedes-Benz,Mercedes-Benz Group,Tyskland,Ukendt,Fossil,Personbil
+mg ehs,1316,MG,SAIC Motor (MG),Kina,Benzin,Fossil,Personbil
+mini 5-dørs,1317,Mini,BMW Group,Tyskland,Benzin,Fossil,Personbil
+nissan leaf,1318,Nissan,Nissan Motor Co.,Japan,Benzin,Fossil,Personbil
+opel combo,1319,Opel,Stellantis,Europæisk (Multinational),Benzin,Fossil,Varebil/MPV
+peugeot 508,1320,Peugeot,Stellantis,Europæisk (Multinational),Ukendt,Fossil,Personbil
+peugeot traveller,1321,Peugeot,Stellantis,Europæisk (Multinational),Benzin,Fossil,Varebil/MPV
+porsche 718 spyder rs,1322,Porsche,Volkswagen Group,Tyskland,Benzin,Fossil,ATV/UTV/Andet
+porsche cayman,1323,Porsche,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+reo utv,1324,Reo,Reo,Ukendt,Benzin,Fossil,ATV/UTV/Andet
+seat ateca,1325,Seat,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+toyota prius,1326,Toyota,Toyota Motor Corporation,Japan,Hybrid,Lav-emission,Personbil
+toyota proace city verso,1327,Toyota,Toyota Motor Corporation,Japan,Benzin,Fossil,Varebil/MPV
+volkswagen taigo,1328,Volkswagen,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+volvo c40,1329,Volvo,Geely (Lynk & Co),Kina,Benzin,Fossil,Personbil
+volvo v60,1330,Volvo,Geely (Lynk & Co),Kina,Benzin,Fossil,Personbil
+volvo xc40,1331,Volvo,Geely (Lynk & Co),Kina,Ukendt,Fossil,Personbil
+voyah free,1332,Voyah,Dongfeng (Voyah),Kina,El,Nul-emission,Personbil
+xingyun utv,1333,Xingyun,Shandong Xingyun,Kina,El,Nul-emission,ATV/UTV/Andet
+linhai lh80da,1334,Linhai,"Zhejiang Linhai Power Machinery Group Co., Ltd.",Ukendt,Benzin,Fossil,ATV/UTV/Andet
+audi e-tron,1335,Audi,Volkswagen Group,Tyskland,El,Nul-emission,Personbil
+cfmoto cforce 625 touring,1336,CFMOTO,CFMOTO,Kina,Benzin,Fossil,ATV/UTV/Andet
+ferrari roma,1337,Ferrari,Ferrari,Italien,Benzin,Fossil,Personbil
+garia monaco 4,1338,Garia,Garia,Danmark,Benzin,Fossil,Personbil
+lotus emeya,1339,Lotus,Geely (Lynk & Co),Kina,Benzin,Fossil,Personbil
+maserati granturismo,1340,Maserati,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+aston martin vantage,1341,Aston Martin,Ford Motor Company,USA,Benzin,Fossil,Personbil
+bmw i3,1342,BMW,BMW Group,Tyskland,El,Nul-emission,Personbil
+citroen ë-c4,1343,Citroen,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+ineos grenadier,1344,Ineos,INEOS Automotive Ltd.,Storbritannien,Benzin,Fossil,Personbil
+jeep wrangler,1345,Jeep,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+mazda mx-5,1346,Mazda,Mazda Motor Corporation,Japan,Benzin,Fossil,Personbil
+mg marvel r,1347,MG,SAIC Motor (MG),Kina,Benzin,Fossil,Personbil
+polaris xp kinetic,1348,Polaris,Polaris,USA,Benzin,Fossil,Personbil
+porsche boxster,1349,Porsche,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+skoda citigo,1350,Skoda,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+volkswagen transporter,1351,Volkswagen,Volkswagen Group,Tyskland,Benzin,Fossil,Varebil/MPV
+bentley continental,1352,Bentley,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+hdk turfman,1353,HDK,HDK Automotive,Kina,El,Nul-emission,ATV/UTV/Andet
+nio et5,1354,Nio,NIO,Kina,El,Nul-emission,Personbil
+yulong lh-q,1355,Yulong,Yulong,Kina,Benzin,Fossil,Personbil
+audi a4,1356,Audi,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+audi q8 e-tron,1357,Audi,Volkswagen Group,Tyskland,El,Nul-emission,SUV/Crossover
+baw pony,1358,BAW,BAW,Ukendt,Benzin,Fossil,Personbil
+garia supersport,1359,Garia,Garia,Danmark,Benzin,Fossil,Personbil
+hdk nrg car,1360,HDK,HDK Automotive,Kina,El,Nul-emission,ATV/UTV/Andet
+mitsubishi eclipse cross,1361,Mitsubishi,Mitsubishi Motors,Japan,Benzin,Fossil,SUV/Crossover
+nio el6,1362,Nio,NIO,Kina,El,Nul-emission,Personbil
+peugeot expert,1363,Peugeot,Stellantis,Europæisk (Multinational),Benzin,Fossil,Varebil/MPV
+toyota sienna,1364,Toyota,Toyota Motor Corporation,Japan,Benzin,Fossil,Varebil/MPV
+volvo s60,1365,Volvo,Geely (Lynk & Co),Kina,Benzin,Fossil,Personbil
+mitsubishi space star,1366,Mitsubishi,Mitsubishi Motors,Japan,Benzin,Fossil,Personbil
+seat tavascan,1367,Seat,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+citroen c4 x,1368,Citroen,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+renault megane,1369,Renault,Renault Group,Frankrig,Benzin,Fossil,Personbil
+mini cabriolet,1370,Mini,BMW Group,Tyskland,Benzin,Fossil,Personbil
+mini cooper,1371,Mini,BMW Group,Tyskland,Benzin,Fossil,Personbil
+citroen ë-c4 x,1372,Citroen,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+ford fiesta,1373,Ford,Ford Motor Company,USA,Benzin,Fossil,Personbil
+mitsubishi asx,1374,Mitsubishi,Mitsubishi Motors,Japan,Benzin,Fossil,Personbil
+lexus es,1375,Lexus,Toyota Motor Corporation,Japan,Benzin,Fossil,Personbil
+volkswagen id.buzz,1376,Volkswagen,Volkswagen Group,Tyskland,El,Nul-emission,Personbil
+jia ji jj2000dbp,1377,Jia Ji,Geely (Lynk & Co),Kina,El,Nul-emission,Kabinescooter
+ford mustang,1378,Ford,Ford Motor Company,USA,Benzin,Fossil,Personbil
+hdk turfmann 700,1379,HDK,HDK Automotive,Kina,El,Nul-emission,ATV/UTV/Andet
+volvo s90,1380,Volvo,Geely (Lynk & Co),Kina,Benzin,Fossil,Personbil
+subaru crosstrek,1381,Subaru,Subaru Corporation,Japan,Benzin,Fossil,SUV/Crossover
+volkswagen touareg,1382,Volkswagen,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+yunlong jj 2000 dbp,1383,Yunlong,MG,Kina,Benzin,Fossil,Personbil
+ds 7,1384,DS,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+toyota camry,1385,Toyota,Toyota Motor Corporation,Japan,Benzin,Fossil,Personbil
+lindebjerg s1,1386,Lindebjerg,Lindebjerg,Danmark,El,Nul-emission,ATV/UTV/Andet
+renault zoe,1387,Renault,Renault Group,Frankrig,Benzin,Fossil,Personbil
+toyota gr86,1388,Toyota,Toyota Motor Corporation,Japan,Benzin,Fossil,Personbil
+polaris ranger kinetic,1389,Polaris,Polaris,USA,Benzin,Fossil,ATV/UTV/Andet
+citroen ami,1390,Citroen,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+mercedes-benz eqc,1391,Mercedes-Benz,Mercedes-Benz Group,Tyskland,El,Nul-emission,Personbil
+renault arkana,1392,Renault,Renault Group,Frankrig,Benzin,Fossil,Personbil
+audi a7,1393,Audi,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+lamborghini urus,1394,Lamborghini,Volkswagen Group,Tyskland,Benzin,Fossil,SUV/Crossover
+cfmoto cforce 1000,1395,CFMOTO,CFMOTO,Kina,Benzin,Fossil,ATV/UTV/Andet
+bmw xm,1396,BMW,BMW Group,Tyskland,Ukendt,Fossil,Personbil
+alfa romeo tonale,1397,Alfa Romeo,Stellantis,Europæisk (Multinational),Benzin,Fossil,SUV/Crossover
+garia monaco,1398,Garia,Garia,Danmark,Benzin,Fossil,Personbil
+dacia spring,1399,Dacia,Renault Group,Frankrig,Benzin,Fossil,Personbil
+peugeot 408,1400,Peugeot,Stellantis,Europæisk (Multinational),Ukendt,Fossil,Personbil
+mercedes-benz cls,1401,Mercedes-Benz,Mercedes-Benz Group,Tyskland,Ukendt,Fossil,Personbil
+regal raptor rex cargo,1402,Regal Raptor,Regal Raptor,Sydafrika,El,Nul-emission,Kabinescooter
+harley davidson flrt,1403,Harley Davidson,Harley Davidson,USA,Benzin,Fossil,ATV/UTV/Andet
+polaris ranger,1404,Polaris,Polaris,USA,Benzin,Fossil,ATV/UTV/Andet
+ford s-max,1405,Ford,Ford Motor Company,USA,Benzin,Fossil,Personbil
+kia rio,1406,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+porsche 718 spyder,1407,Porsche,Volkswagen Group,Tyskland,Benzin,Fossil,ATV/UTV/Andet
+toyota gr supra,1408,Toyota,Toyota Motor Corporation,Japan,Benzin,Fossil,Personbil
+volkswagen arteon,1409,Volkswagen,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+goes xwolf,1410,Goes,Goes,Ukendt,Benzin,Fossil,ATV/UTV/Andet
+hyundai staria,1411,Hyundai,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+rex q7,1412,Rex,Rex GmbH,Tyskland,El,Nul-emission,Kabinescooter
+access ame5k,1413,Access,Access Motor,Taiwan,Benzin,Fossil,ATV/UTV/Andet
+kia optima,1414,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+lexus lc,1415,Lexus,Toyota Motor Corporation,Japan,Benzin,Fossil,Personbil
+opel vivaro,1416,Opel,Stellantis,Europæisk (Multinational),Benzin,Fossil,Varebil/MPV
+ferrari 812,1417,Ferrari,Ferrari,Italien,Benzin,Fossil,Personbil
+segway snarler,1418,Segway,Segway,Ukendt,Benzin,Fossil,ATV/UTV/Andet
+renault espace,1419,Renault,Renault Group,Frankrig,Benzin,Fossil,Personbil
+volkswagen corrado,1420,Volkswagen,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+ferrari 296,1421,Ferrari,Ferrari,Italien,Benzin,Fossil,Personbil
+can-am,1422,Can-Am,Bombardier Recreational Products,Canada,Benzin,Fossil,Personbil
+cfmoto cforce 1000 touring,1423,CFMOTO,CFMOTO,Kina,Benzin,Fossil,ATV/UTV/Andet
+lichi,1424,Lichi,Lichi,Ukendt,Benzin,Fossil,Personbil
+jeep renegade,1425,Jeep,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+lamborghini huracan,1426,Lamborghini,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+volvo nilsson,1427,Nilsson Hearse,Nilsson Hearse,Sverige,Benzin,Fossil,Varebil/MPV
+ford tourneo,1428,Ford,Ford Motor Company,USA,Benzin,Fossil,Varebil/MPV
+ktm x-bow gt-xr,1429,KTM,KTM,Ukendt,Benzin,Fossil,Personbil
+lamborghini huracán,1430,Lamborghini,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+maserati grancabrio,1431,Maserati,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+rolektro e-quad 25,1432,Rolektro,Rolektro,Ukendt,Benzin,Fossil,ATV/UTV/Andet
+audi tt,1433,Audi,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+bmw x2,1434,BMW,BMW Group,Tyskland,Ukendt,Fossil,SUV/Crossover
+citroen c5 x,1435,Citroen,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+eagle european business car,1436,Eagle,"Eagle Golf Cars, LLC",USA,El,Nul-emission,Personbil
+fiat tipo,1437,Fiat,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+ford galaxy,1438,Ford,Ford Motor Company,USA,Benzin,Fossil,Personbil
+jeep compass,1439,Jeep,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+jiayuan eidola,1440,Jiayuan,Jiayuan Electric Vehicles,Kina,El,Nul-emission,Kabinescooter
+mazda 6,1441,Mazda,Mazda Motor Corporation,Japan,Benzin,Fossil,Personbil
+mg 5,1442,MG,SAIC Motor (MG),Kina,Benzin,Fossil,Personbil
+nio el7,1443,Nio,NIO,Kina,El,Nul-emission,Personbil
+opel insignia,1444,Opel,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+volkswagen up!,1445,Volkswagen,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+bmw x6,1446,BMW,BMW Group,Tyskland,Benzin,Fossil,SUV/Crossover
+fiat panda,1447,Fiat,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+ford f,1448,Ford,Ford Motor Company,USA,Benzin,Fossil,Personbil
+ford ranger,1449,Ford,Ford Motor Company,USA,Benzin,Fossil,ATV/UTV/Andet
+hecht 59399,1450,Hecht,Diverse,Kina,Benzin,Fossil,ATV/UTV/Andet
+honda e,1451,Honda,Honda Motor Co.,Japan,Benzin,Fossil,Personbil
+italcar c2c,1452,Italcar,Italcar Industrial S.r.l.,Italien,El,Nul-emission,ATV/UTV/Andet
+nio et7,1453,Nio,NIO,Kina,El,Nul-emission,Personbil
+smart fortwo,1454,Smart,Mercedes-Benz/Geely (JV),Kina,El,Nul-emission,Personbil
+bentley continental gt,1455,Bentley,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+bentley continental gtc,1456,Bentley,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+byd han,1457,BYD,BYD Auto,Kina,Benzin,Fossil,Personbil
+citroen jumpy,1458,Citroen,Stellantis,Europæisk (Multinational),Benzin,Fossil,Varebil/MPV
+garia g22,1459,Garia,Garia,Danmark,Benzin,Fossil,Personbil
+suzuki across,1460,Suzuki,Suzuki Motor Corporation,Japan,Benzin,Fossil,SUV/Crossover
+aiways u6,1461,Aiways,Aiways,Kina,El,Nul-emission,Personbil
+bmw 8'er,1462,BMW,BMW Group,Tyskland,Benzin,Fossil,Personbil
+jaguar e-pace,1463,Jaguar,Jaguar Land Rover (Tata Motors),Indien,Benzin,Fossil,Personbil
+kia soul,1464,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+kia stinger,1465,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+maserati mc20 cielo,1466,Maserati,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+toyota hilux,1467,Toyota,Toyota Motor Corporation,Japan,Benzin,Fossil,Personbil
+xpeng p5,1468,Xpeng,XPeng,Kina,El,Nul-emission,Personbil
+alfa romeo giulia,1469,Alfa Romeo,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+can-am spyder,1470,Can-Am,Bombardier Recreational Products,Canada,Benzin,Fossil,ATV/UTV/Andet
+chevrolet corvette,1471,Chevrolet,Chevrolet,Ukendt,Benzin,Fossil,Personbil
+ferrari sf90,1472,Ferrari,Ferrari,Italien,Benzin,Fossil,Personbil
+jia ji s45,1473,Jia Ji,Geely (Lynk & Co),Kina,El,Nul-emission,Kabinescooter
+nissan primastar,1474,Nissan,Nissan Motor Co.,Japan,Benzin,Fossil,Personbil
+renault twizy,1475,Renault,Renault Group,Frankrig,Benzin,Fossil,Personbil
+cfmoto zforce 1000,1476,CFMOTO,CFMOTO,Kina,Benzin,Fossil,ATV/UTV/Andet
+ds 9,1477,DS,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+ferrari portofino m,1478,Ferrari,Ferrari,Italien,Benzin,Fossil,Personbil
+subaru xv,1479,Subaru,Subaru Corporation,Japan,Benzin,Fossil,Personbil
+toyota mirai,1480,Toyota,Toyota Motor Corporation,Japan,Brint,Nul-emission,Personbil
+agile scx,1481,Agile,Agile Automotive ApS,Danmark,Benzin,Fossil,Personbil
+caterham seven,1482,Caterham,Caterham,Ukendt,Benzin,Fossil,Personbil
+citroen pössl,1483,Citroen,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+saab 9-3,1484,SAAB,SAAB,Sverige,Benzin,Fossil,Personbil
+ford bronco,1485,Ford,Ford Motor Company,USA,Benzin,Fossil,Personbil
+ssangyong korando,1486,SsangYong,KG Mobility (tidl. SsangYong),Sydkorea,Benzin,Fossil,Personbil
+jiayuan city spirit,1487,Jiayuan,Jiayuan Electric Vehicles,Kina,El,Nul-emission,Kabinescooter
+volkswagen california,1488,Volkswagen,Volkswagen Group,Tyskland,Benzin,Fossil,Varebil/MPV
+lynk & co 01,1489,Lynk & Co,Geely (Lynk & Co),Kina,Benzin,Fossil,Personbil
+maserati gran turismo,1490,Maserati,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+ssangyong torres,1491,SsangYong,KG Mobility (tidl. SsangYong),Sydkorea,Benzin,Fossil,SUV/Crossover
+garia g21,1492,Garia,Garia,Danmark,Benzin,Fossil,Personbil
+maxus mifa9,1493,Maxus,SAIC Motor (Maxus),Kina,Benzin,Fossil,Varebil/MPV
+lexus ls,1494,Lexus,Toyota Motor Corporation,Japan,Benzin,Fossil,Personbil
+access sm 480 road,1495,Access,Access Motor,Taiwan,Benzin,Fossil,ATV/UTV/Andet
+chevrolet tahoe,1496,Chevrolet,Chevrolet,Ukendt,Benzin,Fossil,Personbil
+evolution i40,1497,Evolution,Evolution Electric Vehicles,USA,El,Nul-emission,ATV/UTV/Andet
+fiat niesmann+bischoff,1498,Fiat,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+yunlong jj5000bp,1499,Yunlong,MG,Kina,Benzin,Fossil,Personbil
+melex 463,1500,Melex,Melex Sp. z o.o.,Polen,El,Nul-emission,ATV/UTV/Andet
+bernards xy50e,1501,Bernards,Bernards,Ukendt,Benzin,Fossil,Personbil
+cfmoto cforce 520l,1502,CFMOTO,CFMOTO,Kina,Benzin,Fossil,ATV/UTV/Andet
+ferrari 12cilindri,1503,Ferrari,Ferrari,Italien,Benzin,Fossil,Personbil
+harley davidson flhtcutg,1504,Harley Davidson,Harley Davidson,USA,Benzin,Fossil,ATV/UTV/Andet
+kandi cowboy,1505,Kandi,Chery Group,Kina,Benzin,Fossil,Personbil
+silence s04,1506,Silence,Silence,Ukendt,Benzin,Fossil,Personbil
+toyota verso,1507,Toyota,Toyota Motor Corporation,Japan,Benzin,Fossil,Personbil
+tesla,1508,Tesla,"Tesla, Inc.",USA,El,Nul-emission,Personbil
+bmw,1509,BMW,BMW Group,Tyskland,Benzin,Fossil,Personbil
+skoda,1510,Skoda,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+audi,1511,Audi,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+renault,1512,Renault,Renault Group,Frankrig,Benzin,Fossil,Personbil
+cupra,1513,Cupra,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+volkswagen,1514,Volkswagen,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+kia,1515,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+mercedes-benz,1516,Mercedes-Benz,Mercedes-Benz Group,Tyskland,Benzin,Fossil,Personbil
+xpeng,1517,Xpeng,XPeng,Kina,El,Nul-emission,Personbil
+toyota,1518,Toyota,Toyota Motor Corporation,Japan,Benzin,Fossil,Personbil
+nissan,1519,Nissan,Nissan Motor Co.,Japan,Benzin,Fossil,Personbil
+ford,1520,Ford,Ford Motor Company,USA,Benzin,Fossil,Personbil
+byd,1521,BYD,BYD Auto,Kina,Benzin,Fossil,Personbil
+volvo,1522,Volvo,Geely (Lynk & Co),Kina,Benzin,Fossil,Personbil
+polestar,1523,Polestar,Geely (Lynk & Co),Kina,El,Nul-emission,Personbil
+porsche,1524,Porsche,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+dacia,1525,Dacia,Renault Group,Frankrig,Benzin,Fossil,Personbil
+peugeot,1526,Peugeot,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+suzuki,1527,Suzuki,Suzuki Motor Corporation,Japan,Benzin,Fossil,Personbil
+seat,1528,Seat,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+hyundai,1529,Hyundai,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+mazda,1530,Mazda,Mazda Motor Corporation,Japan,Benzin,Fossil,Personbil
+mini,1531,Mini,BMW Group,Tyskland,Benzin,Fossil,Personbil
+citroen,1532,Citroen,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+jeep,1533,Jeep,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+fiat,1534,Fiat,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+lexus,1535,Lexus,Toyota Motor Corporation,Japan,Benzin,Fossil,Personbil
+opel,1536,Opel,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+mg,1537,MG,SAIC Motor (MG),Kina,Benzin,Fossil,Personbil
+alfa,1538,Alfa,Alfa,Ukendt,Benzin,Fossil,Personbil
+fisker,1539,Fisker,Fisker Inc.,USA,El,Nul-emission,Personbil
+honda,1540,Honda,Honda Motor Co.,Japan,Benzin,Fossil,Personbil
+hongqi,1541,Hongqi,FAW (Hongqi),Kina,El,Nul-emission,Personbil
+land,1542,Land,Land,Ukendt,Benzin,Fossil,Personbil
+man,1543,MAN,TRATON (Volkswagen Group),Ukendt,Benzin,Fossil,Personbil
+maxus,1544,Maxus,SAIC Motor (Maxus),Kina,Benzin,Fossil,Personbil
+kgm,1545,KGM,KG Mobility (tidl. SsangYong),Sydkorea,El,Nul-emission,Personbil
+nilsson,1546,Nilsson Hearse,Nilsson Hearse,Sverige,Benzin,Fossil,Varebil/MPV
+ds,1547,DS,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+jia,1548,Jia,Geely (Lynk & Co),Kina,El,Nul-emission,Kabinescooter
+maserati,1549,Maserati,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+aiways,1550,Aiways,Aiways,Kina,El,Nul-emission,Personbil
+bach,1551,Bach,Bach,Danmark,El,Nul-emission,Kabinescooter
+hisun,1552,Hisun,"Chongqing Huansong Industrial (Group) Co., Ltd.",Kina,Benzin,Fossil,ATV/UTV/Andet
+jac,1553,JAC,JAC Motors,Kina,Benzin,Fossil,Personbil
+jaguar,1554,Jaguar,Jaguar Land Rover (Tata Motors),Indien,Benzin,Fossil,Personbil
+reo,1555,Reo,Reo,Ukendt,Benzin,Fossil,Personbil
+rolls-royce,1556,Rolls-Royce,BMW Group,Tyskland,Benzin,Fossil,Personbil
+subaru,1557,Subaru,Subaru Corporation,Japan,Benzin,Fossil,Personbil
+voyah,1558,Voyah,Dongfeng (Voyah),Kina,El,Nul-emission,Personbil
+xingyun,1559,Xingyun,Shandong Xingyun,Kina,El,Nul-emission,ATV/UTV/Andet
+baw,1560,BAW,BAW,Ukendt,Benzin,Fossil,Personbil
+ferrari,1561,Ferrari,Ferrari,Italien,Benzin,Fossil,Personbil
+italcar,1562,Italcar,Italcar Industrial S.r.l.,Italien,El,Nul-emission,ATV/UTV/Andet
+lamborghini,1563,Lamborghini,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+lotus,1564,Lotus,Geely (Lynk & Co),Kina,Benzin,Fossil,Personbil
+mitsubishi,1565,Mitsubishi,Mitsubishi Motors,Japan,Benzin,Fossil,Personbil
+nio,1566,Nio,NIO,Kina,El,Nul-emission,Personbil
+polaris,1567,Polaris,Polaris,USA,Benzin,Fossil,Personbil
+powerland,1568,Powerland,Powerland,Ukendt,Benzin,Fossil,Personbil
+regal,1569,Regal,Regal,Ukendt,Benzin,Fossil,Personbil
+rex,1570,Rex,Rex GmbH,Tyskland,El,Nul-emission,Kabinescooter
+smart,1571,Smart,Mercedes-Benz/Geely (JV),Kina,El,Nul-emission,Personbil
+hongqi e-hs7,1572,Hongqi E-HS7,Hongqi E-HS7,Kina,El,Nul-emission,Personbil
+fiat topolino,1573,Fiat,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+xpeng p7i,1574,Xpeng,XPeng,Kina,El,Nul-emission,Personbil
+access sp450,1575,Access,Access Motor,Taiwan,Benzin,Fossil,ATV/UTV/Andet
+lamborghini revuelto,1576,Lamborghini,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+access shade ax 800u,1577,Access,Access Motor,Taiwan,Benzin,Fossil,ATV/UTV/Andet
+yunlong jj 2000 dzk,1578,Yunlong,MG,Kina,Benzin,Fossil,Personbil
+yunlong jj5000bp-506,1579,Yunlong,MG,Kina,Benzin,Fossil,Personbil
+cfmoto 850xc,1580,CFMOTO,CFMOTO,Kina,Benzin,Fossil,Personbil
+jaguar f-type,1581,Jaguar,Jaguar Land Rover (Tata Motors),Indien,Benzin,Fossil,Personbil
+morris 1000,1582,Morris,Morris,Ukendt,Benzin,Fossil,Personbil
+ds 3 crossback,1583,DS,Stellantis,Europæisk (Multinational),Benzin,Fossil,SUV/Crossover
+rivian r1s,1584,Rivian,Rivian,USA,El,Nul-emission,Personbil
+dodge challenger,1585,Dodge,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+goes terrox 500,1586,Goes,Goes,Ukendt,Benzin,Fossil,Personbil
+loncin xwolf 700l,1587,Loncin,Loncin,Ukendt,Benzin,Fossil,ATV/UTV/Andet
+paxster 23,1588,Paxster,Paxster,Ukendt,Benzin,Fossil,Personbil
+vigorous t408-2,1589,Vigorous,Vigorous,Ukendt,Benzin,Fossil,Personbil
+evolution del2023dub,1590,Evolution,Evolution Electric Vehicles,USA,El,Nul-emission,ATV/UTV/Andet
+evolution turfman 750,1591,Evolution Turfman,Evolution Electric Vehicles,USA,El,Nul-emission,ATV/UTV/Andet
+ford f-150,1592,Ford,Ford Motor Company,USA,Benzin,Fossil,Personbil
+jinpeng jpyd25d1,1593,Jinpeng,Jinpeng,Ukendt,Benzin,Fossil,Personbil
+maxus eterron 9,1594,Maxus,SAIC Motor (Maxus),Kina,Benzin,Fossil,Personbil
+moke ev1,1595,Moke,Moke,Ukendt,Benzin,Fossil,Personbil
+renault rafale,1596,Renault,Renault Group,Frankrig,Benzin,Fossil,Personbil
+yunlong jj5000bu-h06,1597,Yunlong,MG,Kina,Benzin,Fossil,Personbil
+kandi inovator,1598,Kandi,Chery Group,Kina,Benzin,Fossil,Personbil
+odes aodes 1000,1599,Odes,Odes,Ukendt,Benzin,Fossil,Personbil
+opel rocks-e,1600,Opel,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+ac trailer ame5k,1601,AC,AC,Ukendt,Benzin,Fossil,Personbil
+ford mustang mach e,1602,Ford,Ford Motor Company,USA,Benzin,Fossil,Personbil
+seat 600,1603,Seat,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+alfa romeo stelvio,1604,Alfa Romeo,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+boom mustang,1605,Boom,Boom,Ukendt,Benzin,Fossil,Personbil
+citroen c1,1606,Citroen,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+citroen grand c4 spacetourer,1607,Citroen,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+dacia lodgy,1608,Dacia,Renault Group,Frankrig,Benzin,Fossil,Personbil
+jinma j2,1609,Jinma,Jinma,Ukendt,Benzin,Fossil,Personbil
+maxus euniq,1610,Maxus,SAIC Motor (Maxus),Kina,Benzin,Fossil,Personbil
+mini clubman,1611,Mini,BMW Group,Tyskland,Benzin,Fossil,Personbil
+opel crossland x,1612,Opel,Stellantis,Europæisk (Multinational),Benzin,Fossil,SUV/Crossover
+opel grandland x,1613,Opel,Stellantis,Europæisk (Multinational),Benzin,Fossil,SUV/Crossover
+peugeot 108,1614,Peugeot,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+polaris rzr,1615,Polaris,Polaris,USA,Benzin,Fossil,ATV/UTV/Andet
+renault kadjar,1616,Renault,Renault Group,Frankrig,Benzin,Fossil,Personbil
+seat tarraco,1617,Seat,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+toyota aygo,1618,Toyota,Toyota Motor Corporation,Japan,Benzin,Fossil,Personbil
+xev yoyo,1619,XEV,XEV,Italien,El,Nul-emission,Personbil
+ford mondeo,1620,Ford,Ford Motor Company,USA,Benzin,Fossil,Personbil
+jaguar xe,1621,Jaguar,Jaguar Land Rover (Tata Motors),Indien,Benzin,Fossil,Personbil
+linhai lh50du,1622,Linhai,"Zhejiang Linhai Power Machinery Group Co., Ltd.",Ukendt,Benzin,Fossil,ATV/UTV/Andet
+standard motor corp. 850,1623,Standard Motor Corp.,Standard Motor Corp.,Ukendt,Benzin,Fossil,Personbil
+goes cobalt,1624,Goes,Goes,Ukendt,Benzin,Fossil,Personbil
+maserati levante,1625,Maserati,Stellantis,Europæisk (Multinational),Benzin,Fossil,SUV/Crossover
+maserati mc20,1626,Maserati,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
+cfmoto cforce 850,1627,CFMOTO,CFMOTO,Kina,Benzin,Fossil,ATV/UTV/Andet
+hyundai ioniq,1628,Hyundai,Hyundai Motor Group,Sydkorea,El,Nul-emission,Personbil
+jaguar xf,1629,Jaguar,Jaguar Land Rover (Tata Motors),Indien,Benzin,Fossil,Personbil
+mitsubishi space gear,1630,Mitsubishi,Mitsubishi Motors,Japan,Benzin,Fossil,Personbil
+regal raptor k3,1631,Regal Raptor,Regal Raptor,Sydafrika,El,Nul-emission,Kabinescooter
+hyundai genesis,1632,Hyundai,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+mitsubishi outlander,1633,Mitsubishi,Mitsubishi Motors,Japan,Benzin,Fossil,ATV/UTV/Andet
+nissan nv200,1634,Nissan,Nissan Motor Co.,Japan,Benzin,Fossil,Personbil
+polestar 1,1635,Polestar,Geely (Lynk & Co),Kina,El,Nul-emission,Personbil
+rewaco rf1,1636,Rewaco,Rewaco,Ukendt,Benzin,Fossil,Personbil
+goes iron,1637,Goes,Goes,Ukendt,Benzin,Fossil,Personbil
+volkswagen kombi,1638,Volkswagen,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+lamborghini aventador,1639,Lamborghini,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
+lindebjerg z1,1640,Lindebjerg,Lindebjerg,Danmark,El,Nul-emission,ATV/UTV/Andet
+nio es8,1641,Nio,NIO,Kina,El,Nul-emission,Personbil
+iveco daily,1642,Iveco,Iveco,Ukendt,Benzin,Fossil,Varebil/MPV
+bmw i7,1643,BMW,BMW Group,Tyskland,El,Nul-emission,Personbil
+bmw i3,1644,BMW,BMW Group,Tyskland,El,Nul-emission,Personbil
+toyota c-hr+,1645,Toyota,Toyota Motor Corporation,Japan,El,Nul-emission,SUV/Crossover
+vinfast vf 8,1646,VinFast,VinFast Auto,Vietnam,El,Nul-emission,SUV/Crossover
+vinfast vf 6,1647,VinFast,VinFast Auto,Vietnam,El,Nul-emission,SUV/Crossover
+cupra raval,1648,Cupra,Volkswagen Group,Tyskland,El,Nul-emission,Personbil
+renault twingo,1649,Renault,Renault Group,Frankrig,El,Nul-emission,Personbil
+vinfast vf 8 plus,1650,VinFast,VinFast Auto,Vietnam,El,Nul-emission,SUV/Crossover
+byd atto 3 evo,1651,BYD,BYD Auto,Kina,El,Nul-emission,SUV/Crossover
+zeekr 7gt,1652,Zeekr,Geely (Lynk & Co),Kina,El,Nul-emission,Personbil
+deepal s05,1653,Deepal,Changan Automobile,Kina,El,Nul-emission,SUV/Crossover
+subaru uncharted,1654,Subaru,Subaru Corporation,Japan,El,Nul-emission,SUV/Crossover
+subaru e-outback,1655,Subaru,Subaru Corporation,Japan,El,Nul-emission,SUV/Crossover
+alpine a290,1656,Alpine,Renault Group,Frankrig,El,Nul-emission,Personbil
+alpine a390,1657,Alpine,Renault Group,Frankrig,El,Nul-emission,SUV/Crossover
+can-am outlander electric,1658,Can-Am,Bombardier Recreational Products,Canada,El,Nul-emission,ATV/UTV/Andet
+deepal s07,1659,Deepal,Changan Automobile,Kina,El,Nul-emission,SUV/Crossover
+yunlong jj5000bp-h06,1660,Yunlong,Shandong Yunlong Eco Technologies,Kina,El,Nul-emission,ATV/UTV/Andet
+cfmoto uforce 1000 pro highland,1661,CFMOTO,CFMOTO,Kina,Benzin,Fossil,ATV/UTV/Andet
+ds n°8,1662,DS,Stellantis,Europæisk (Multinational),El,Nul-emission,SUV/Crossover
+polaris ranger xp,1663,Polaris,Polaris Inc.,USA,Benzin,Fossil,ATV/UTV/Andet
+skoda epiq,1664,Skoda,Volkswagen Group,Tyskland,El,Nul-emission,SUV/Crossover
+volvo ex60,1665,Volvo,Geely (Lynk & Co),Kina,El,Nul-emission,SUV/Crossover
+yunlong lh-q,1666,Yunlong,Shandong Yunlong Eco Technologies,Kina,El,Nul-emission,ATV/UTV/Andet
+yunlong jj5000bu,1667,Yunlong,Shandong Yunlong Eco Technologies,Kina,El,Nul-emission,ATV/UTV/Andet
+xpeng p7+,1668,Xpeng,XPeng,Kina,El,Nul-emission,Personbil
+eagle eg2048kr,1669,Eagle,Suzhou Eagle Electric Vehicle Manufacturing,Kina,El,Nul-emission,ATV/UTV/Andet
+aston martin vanquish,1670,Aston Martin,Aston Martin Lagonda,Storbritannien,Benzin,Fossil,Personbil
+can-am outlander max electric,1671,Can-Am,Bombardier Recreational Products,Canada,El,Nul-emission,ATV/UTV/Andet
+can-am spyder f3,1672,Can-Am,Bombardier Recreational Products,Canada,Benzin,Fossil,ATV/UTV/Andet
+ferrari amalfi,1673,Ferrari,Ferrari S.p.A.,Italien,Benzin,Fossil,Personbil
+goes terrox 1000,1674,Goes,Goes,Ukendt,Benzin,Fossil,ATV/UTV/Andet
+odes workcross 1000-3,1675,Odes,ODES,Ukendt,Benzin,Fossil,ATV/UTV/Andet
+honda prelude,1676,Honda,Honda Motor Company,Japan,Benzin,Fossil,Personbil
+peugeot partner,1677,Peugeot,Stellantis,Europæisk (Multinational),Benzin,Fossil,Varebil/MPV
+kia ev2,1678,Kia,Hyundai Motor Group,Sydkorea,El,Nul-emission,SUV/Crossover
+jia ji jj2000,1679,Jia Ji,Jia Ji,Kina,El,Nul-emission,ATV/UTV/Andet
+leapmotor t03,1680,Leapmotor,Leapmotor,Kina,El,Nul-emission,Personbil
+can-am spyder rt,1681,Can-Am,Bombardier Recreational Products,Canada,Benzin,Fossil,ATV/UTV/Andet
+evolution del 3022g eec,1682,Evolution,Evolution Electric Vehicles,Kina,El,Nul-emission,ATV/UTV/Andet
+today sunshine m2,1683,Today Sunshine,Today Sunshine,Kina,El,Nul-emission,ATV/UTV/Andet
+access shade ax800-u,1684,Access,Access Motor,Taiwan,Benzin,Fossil,ATV/UTV/Andet
+yunlong jj2000dzk,1685,Yunlong,Shandong Yunlong Eco Technologies,Kina,El,Nul-emission,ATV/UTV/Andet
+volkswagen id. polo,1686,Volkswagen,Volkswagen Group,Tyskland,El,Nul-emission,Personbil
+volkswagen id.3 neo,1687,Volkswagen,Volkswagen Group,Tyskland,El,Nul-emission,Personbil
+mazda cx-6e,1688,Mazda,Mazda Motor Corporation,Japan,El,Nul-emission,SUV/Crossover
+leapmotor b05,1689,Leapmotor,Leapmotor,Kina,El,Nul-emission,Personbil
+aion ut,1690,Aion,GAC Group,Kina,El,Nul-emission,Personbil
+can-am outlander ev,1691,Can-Am,Bombardier Recreational Products,Canada,El,Nul-emission,ATV/UTV/Andet
+lvtong s2.dch,1692,Lvtong,Guangdong Lvtong New Energy Electric Vehicle Technology,Kina,El,Nul-emission,ATV/UTV/Andet
+kandi innovator,1693,Kandi,Kandi Technologies Group,Kina,El,Nul-emission,ATV/UTV/Andet
+mg im6,1694,MG,SAIC Motor (MG),Kina,El,Nul-emission,SUV/Crossover
+aston martin db12,1695,Aston Martin,Aston Martin Lagonda,Storbritannien,Benzin,Fossil,Personbil
+elveon min-e,1696,Elveon,SAIC-GM-Wuling,Kina,El,Nul-emission,Personbil
+harley davidson fltrt,1697,Harley Davidson,Harley Davidson,USA,Benzin,Fossil,ATV/UTV/Andet
+hdk,1698,HDK,HDK Automotive,Kina,El,Nul-emission,ATV/UTV/Andet
+mg im5,1699,MG,SAIC Motor (MG),Kina,El,Nul-emission,Personbil
