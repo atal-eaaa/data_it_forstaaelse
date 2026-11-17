@@ -32,7 +32,7 @@ suzuki vitara,1029,Suzuki,Suzuki Motor Corporation,Japan,Benzin,Fossil,SUV/Cross
 peugeot 2008,1030,Peugeot,Stellantis,Europæisk (Multinational),Benzin,Fossil,Personbil
 leapmotor b10,1031,Leapmotor,Leapmotor,Kina,El,Nul-emission,Personbil
 citroen c5 aircross,1032,Citroen,Stellantis,Europæisk (Multinational),Benzin,Fossil,SUV/Crossover
-kia ev3,1033,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+kia ev3,1033,Kia,Hyundai Motor Group,Sydkorea,El,Nul-emission,Personbil
 suzuki swift,1034,Suzuki,Suzuki Motor Corporation,Japan,Benzin,Fossil,Personbil
 nissan qashqai,1035,Nissan,Nissan Motor Co.,Japan,Benzin,Fossil,SUV/Crossover
 peugeot 3008,1036,Peugeot,Stellantis,Europæisk (Multinational),Ukendt,Fossil,Personbil
@@ -57,18 +57,18 @@ ford puma,1054,Ford,Ford Motor Company,USA,Benzin,Fossil,Personbil
 nissan micra,1055,Nissan,Nissan Motor Co.,Japan,Benzin,Fossil,Personbil
 volvo ex30,1056,Volvo,Geely (Lynk & Co),Kina,Benzin,Fossil,SUV/Crossover
 toyota yaris,1057,Toyota,Toyota Motor Corporation,Japan,Hybrid,Lav-emission,Personbil
-kia ev9,1058,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
-kia ev4,1059,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+kia ev9,1058,Kia,Hyundai Motor Group,Sydkorea,El,Nul-emission,Personbil
+kia ev4,1059,Kia,Hyundai Motor Group,Sydkorea,El,Nul-emission,Personbil
 ford kuga,1060,Ford,Ford Motor Company,USA,Hybrid,Lav-emission,Personbil
 hyundai inster,1061,Hyundai,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
 cupra formentor,1062,Cupra,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
 bmw 5'er,1063,BMW,BMW Group,Tyskland,Ukendt,Fossil,Personbil
 audi a3,1064,Audi,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
 cupra tavascan,1065,Cupra,Volkswagen Group,Tyskland,Benzin,Fossil,Personbil
-kia pv5,1066,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+kia pv5,1066,Kia,Hyundai Motor Group,Sydkorea,El,Nul-emission,Personbil
 bmw 1'er,1067,BMW,BMW Group,Tyskland,Benzin,Fossil,Personbil
 xpeng g9,1068,Xpeng,XPeng,Kina,El,Nul-emission,Personbil
-kia ev6,1069,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+kia ev6,1069,Kia,Hyundai Motor Group,Sydkorea,El,Nul-emission,Personbil
 nissan ariya,1070,Nissan,Nissan Motor Co.,Japan,Benzin,Fossil,Personbil
 audi q2,1071,Audi,Volkswagen Group,Tyskland,Benzin,Fossil,SUV/Crossover
 opel grandland,1072,Opel,Stellantis,Europæisk (Multinational),Benzin,Fossil,SUV/Crossover
@@ -163,7 +163,7 @@ audi q6 e-tron,1160,Audi,Volkswagen Group,Tyskland,El,Nul-emission,SUV/Crossover
 byd atto 3,1161,BYD,BYD Auto,Kina,Benzin,Fossil,Personbil
 ford focus,1162,Ford,Ford Motor Company,USA,Benzin,Fossil,Personbil
 honda civic,1163,Honda,Honda Motor Co.,Japan,Hybrid,Lav-emission,Personbil
-kia ev5,1164,Kia,Hyundai Motor Group,Sydkorea,Benzin,Fossil,Personbil
+kia ev5,1164,Kia,Hyundai Motor Group,Sydkorea,El,Nul-emission,Personbil
 lexus lbx,1165,Lexus,Toyota Motor Corporation,Japan,Benzin,Fossil,Personbil
 maxus e-deliver 9,1166,Maxus,SAIC Motor (Maxus),Kina,Benzin,Fossil,Varebil/MPV
 maxus euniq6,1167,Maxus,SAIC Motor (Maxus),Kina,Benzin,Fossil,SUV/Crossover
